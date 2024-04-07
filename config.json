@@ -1,0 +1,18 @@
+{
+  "webhooks": [
+    {
+      "name": "Windows XP",
+      "url": "https://discord.com/api/webhooks/1225056237721358336/fJVYUJd1lBXJqSVBBF5-nVZ_-vwvGCchwNF4Z1nI3fhgJ1GsqRkorv2zcufM8gHY2nBL"
+    }
+  ],
+  "image": [
+    {
+      "name": "MemeChips",
+      "path": "src/assets/MemeChips" // src/assets/IMAGE_NAME.png
+    },
+    {
+      "name": "Raciste",
+      "path": "src/assets/Raciste.png" // src/assets/IMAGE_NAME.png
+    }
+  ]
+}
