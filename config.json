@@ -11,8 +11,8 @@
       "path": "src/assets/MemeChips" // src/assets/IMAGE_NAME.png
     },
     {
-      "name": "Raciste",
-      "path": "src/assets/Raciste.png" // src/assets/IMAGE_NAME.png
+      "name": "tic-tac-toe",
+      "path": "src/assets/Raciste.png" // src/assets/IMAGE_NAME.jpg
     }
   ]
 }
