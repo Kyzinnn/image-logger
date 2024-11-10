@@ -12,7 +12,7 @@
     },
     {
       "name": "tic-tac-toe",
-      "path": "src/assets/tic-tac-toe.png" // src/assets/IMAGE_NAME.jpg
+      "path": "src/assets/tic-tac-toe.png" // src/assets/IMAGE_NAME.png
     }
   ]
 }
